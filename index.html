@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Curriculum Vitae</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f0f8ff; /* Light blue background */
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+            background-color: #4682b4; /* SteelBlue header background */
+            padding: 15px;
+            color: #fff;
+            position: relative;
+        }
+
+        h1 {
+            margin: 0;
+            margin-top: 10px; /* Adjust the margin as needed */
+        }
+
+        p {
+            margin: 5px 0;
+        }
+
+        .profile-photo {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            overflow: hidden;
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 2px solid #fff; /* White border */
+            margin-top: 10px; /* Adjust the margin as needed */
+        }
+
+        .profile-photo img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        section {
+            background-color: #fff; /* White section background */
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #4682b4; /* SteelBlue section title color */
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        ul li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <div class="profile-photo">
+            <img src="your_photo.png" alt="Your Name">
+        </div>
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section>
+        <h2>Contact Information</h2>
+        <ul>
+            <li>Email: <span id="obfuscatedEmail"></span></li>
+            <li>Phone: <span id="obfuscatedPhone"></span></li>
+            <li>LinkedIn: linkedin.com/in/yourname</li>
+            <li>GitHub: github.com/yourusername</li>
+        </ul>
+    </section>
+    
+            <script>
+                // Call obfuscation functions when the page loads
+                obfuscateEmail();
+                obfuscatePhone();
+            </script>
+
+    <section>
+        <h2>Education</h2>
+        <p><strong>Degree in Computer Science</strong></p>
+        <p>University Name, Graduation Year</p>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <p><strong>Web Developer</strong></p>
+        <p>Company Name, Start Date - End Date</p>
+        <ul>
+            <li>Responsibility 1</li>
+            <li>Responsibility 2</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>React, Node.js</li>
+            <li>Database Management (e.g., MongoDB, MySQL)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Languages</h2>
+        <ul>
+            <li>English (Fluent)</li>
+            <li>Spanish (Intermediate)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <p><strong>Project Name</strong></p>
+        <p>Description of the project.</p>
+    </section>
+
+</body>
+
+</html>
