@@ -1,2 +1,0 @@
-# resume
-Marinos Agapiou Resume
