@@ -16,7 +16,7 @@ darkmode: false
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
-  icon: fas fa-globe
+  icon: fas fa-linkedin
   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -127,7 +127,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: MSc in Business Administration - MBA (GPA : 8.3/10)
+        title: MSc in Business Administration - MBA (GPA 8.3/10)
         caption: Sept 2020 - Sept 2022
         sub_title: University of Economics and Business (Athens, Greece)
          quote: >
@@ -135,7 +135,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Thesis: Determinants of Entrepreneurial Intentions of MBA Students and Graduates
       - layout: left
-        title: BSc in Informatics and Telecomunications(GPA: 8.5/10 - with Honors)
+        title: BSc in Informatics and Telecomunications(GPA 8.5/10 - with Honors)
         caption: Sept 2014 - Sept 2019
         sub_title: National and Kapodistrian University of Athens
         #  quote: >
