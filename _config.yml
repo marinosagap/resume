@@ -125,7 +125,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: {% raw %}MSc in Business Administration - MBA (GPA: 8.3/10){% endraw %}
+        {% raw %} 
+        title:  MSc in Business Administration - MBA (GPA: 8.3/10) 
+        {% endraw %}
         caption: Sept 2020 - Sept 2022
         sub_title: University of Economics and Business (Athens, Greece)
         #  quote: >
