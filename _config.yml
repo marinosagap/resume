@@ -1,5 +1,4 @@
 # Site
-{% raw %}
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -126,29 +125,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left 
-        title:  MSc in Business Administration - MBA (GPA: 8.3/10) 
+        title:  MSc in Business Administration - MBA (GPA&#58; 8.3/10) 
         caption: Sept 2020 - Sept 2022
         sub_title: University of Economics and Business (Athens, Greece)
         #  quote: >
         #    "Main Interests: Management & Entrepreneurship"
         description: | # this will include new lines to allow paragraphs
-          "Thesis: Determinants of Entrepreneurial Intentions of MBA Students and Graduates"
-          "Main Interests: Management & Entrepreneurship"
+          Thesis&#58; Determinants of Entrepreneurial Intentions of MBA Students and Graduates
+          Main Interests&#58; Management & Entrepreneurship
       - layout: left
-        title: "BSc in Informatics and Telecomunications(GPA: 8.5/10 - with Honors)"
+        title: BSc in Informatics and Telecomunications(GPA&#58; 8.5/10 - with Honors)
         caption: Sept 2014 - Sept 2019
         sub_title: National and Kapodistrian University of Athens
         #  quote: >
         #    Main Interests: Management & Entrepreneurship
         description: | # this will include new lines to allow paragraphs
-          "Main Interests: Web Development & Computer Security."
+          Main Interests&#58; Web Development & Computer Security.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      "Alongside my interests and hobbies are:
+      Alongside my interests and hobbies are&#58;
       - Playing Basketball in a local league in Athens 
       - Going to the Theater
-      - Also enjoy playing board games with friends"
+      - Also enjoy playing board games with friends
 
 # Footer
 footer_show_references: true
@@ -163,4 +162,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-{% endraw %}
