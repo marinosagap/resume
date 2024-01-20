@@ -1,4 +1,5 @@
 # Site
+{% raw %}
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -124,10 +125,8 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        {% raw %} 
+      - layout: left 
         title:  MSc in Business Administration - MBA (GPA: 8.3/10) 
-        {% endraw %}
         caption: Sept 2020 - Sept 2022
         sub_title: University of Economics and Business (Athens, Greece)
         #  quote: >
@@ -164,3 +163,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+{% endraw %}
