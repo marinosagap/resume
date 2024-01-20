@@ -105,7 +105,6 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Implementation of a Web App similar to LinkedIn. Technologies used : Gradle, Java Spring Boot, Rest, Java Spring Security, Swagger, OAuth2 , PostgreSQL, Angular6 ,HTML5 ,Bootstrap.
-    content:
       - layout: left
         title: Airbnb Mobile App clone
         # caption: 2010 - 2013
@@ -114,7 +113,6 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Airbnb-style Android app for short-term rentals in Android Studio, powered by Maven, Java Spring Boot, REST, OAuth2, Java Observables, and MongoDB leveraging Jenkins CI/CD.
-    content:
       - layout: left
         title: Small Startup Venture
         # caption: 2010 - 2013
@@ -127,7 +125,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: "MSc in Business Administration - MBA (GPA: 8.3/10)"
+        title: {% raw %}MSc in Business Administration - MBA (GPA: 8.3/10){% endraw %}
         caption: Sept 2020 - Sept 2022
         sub_title: University of Economics and Business (Athens, Greece)
         #  quote: >
