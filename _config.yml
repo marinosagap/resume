@@ -42,7 +42,7 @@ content:
     content:
       - layout: left
         title: Netcompany-Intrasoft
-        link: netcompany.com
+        link: https://netcompany.com
         # link_text: boringcompany.com
         sub_title: Full Stack Software Engineer
         caption: December 2022 - Present
@@ -51,61 +51,104 @@ content:
         description: | # this will include new lines to allow paragraphs
            Implementing scalable microservice architectures and REST APIs using Maven, Java Spring Boot, leveraging Azure CI/CD Pipeline.
       - layout: left
-        title: Netcompany-Intrasoft
-        link: netcompany.com
+        title: CENSUS SA
+        link: https://census-labs.com
         # link_text: boringcompany.com
-        sub_title: Full Stack Software Engineer
-        caption: December 2022 - Present
+        sub_title: IT Security Engineering Intern
+
+        caption: Jan - April 2019
         # quote: >
         #   Implementing scalable microservice architectures and REST APIs using Maven, Java Spring Boot, leveraging Azure CI/CD Pipeline.
         description: | # this will include new lines to allow paragraphs
-           Implementing scalable microservice architectures and REST APIs using Maven, Java Spring Boot, leveraging Azure CI/CD Pipeline.
+           Conducting hands-on penetration testing encompassing Web and Mobile applications as well as Cloud environments, with a specific emphasis on leveraging OWASP security practices, BURP Suite, and sophisticated Python scripting..
+      - layout: left
+        title: Upstream
+        link: https://upstreamsystems.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
 
-  - title: Projects # Title for the section
+        caption: May - Sept 2018
+        # quote: >
+        #   Implementing scalable microservice architectures and REST APIs using Maven, Java Spring Boot, leveraging Azure CI/CD Pipeline.
+        description: | # this will include new lines to allow paragraphs
+           Contributing to the Web Recruitment platform that serves millions of users daily. Utilized technologies like PHP, PL/SQL, and Java Spring Boot, HTML, CSS. Teamed up with creative minds in UX/UI team, making sure we all worked seamlessly together, crafting captivating landing pages.
+      - layout: left
+        title: CERN
+        link: https://home.cern
+        # link_text: boringcompany.com
+        sub_title: Summer Intern
+
+        caption: July - Aug 2017
+        # quote: >
+        #   Implementing scalable microservice architectures and REST APIs using Maven, Java Spring Boot, leveraging Azure CI/CD Pipeline.
+        description: | # this will include new lines to allow paragraphs
+          Member of the CERN IT team, I actively contributed to implementing a monitoring tool for the InfiniBand switch cluster and an SNMP Trap server receiver, showcasing skills in Python3.
+      - layout: left
+        title: Synelixis SA
+        link: https://synelixis.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineering Intern
+
+        caption: July - Aug 2017
+        # quote: >
+        #   Implementing scalable microservice architectures and REST APIs using Maven, Java Spring Boot, leveraging Azure CI/CD Pipeline.
+        description: | # this will include new lines to allow paragraphs
+          Trained on Full Stack Web Development and gained expertise in developing hybrid mobile applications using Ionic-Cordova. Contributed to the development of the home page of Synfield mobile application, showcasing skills in AngularJS, jQuery, CSS, and HTML - title: Projects # Title for the section  layout: list # Type of content section (list/text) 
+  - title: Personal Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+      - layout: left
+        title: LinkedIn clone
+        # caption: 2010 - 2013
+        # sub_title: BSc Computer Science
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  
+          Implementation of a Web App similar to LinkedIn. Technologies used : Gradle, Java Spring Boot, Rest, Java Spring Security, Swagger, OAuth2 , PostgreSQL, Angular6 ,HTML5 ,Bootstrap.
+    content:
+      - layout: left
+        title: Airbnb Mobile App clone
+        # caption: 2010 - 2013
+        # sub_title: BSc Computer Science
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Airbnb-style Android app for short-term rentals in Android Studio, powered by Maven, Java Spring Boot, REST, OAuth2, Java Observables, and MongoDB leveraging Jenkins CI/CD.
+    content:
+      - layout: left
+        title: Small Startup Venture
+        # caption: 2010 - 2013
+        # sub_title: BSc Computer Science
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Teamed up with a friend to create a job-board web application specifically designed for remote developer positions. Technologies used: Node.js, Express.js, Angular, HTML, TailwindCSS, MongoDB and Jenkins CI/CD hosted on Azure cloud.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: MSc in Business Administration - MBA (GPA : 8.3/10)
+        caption: Sept 2020 - Sept 2022
+        sub_title: University of Economics and Business (Athens, Greece)
+         quote: >
+           Main Interests: Management & Entrepreneurship
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          Thesis: Determinants of Entrepreneurial Intentions of MBA Students and Graduates
+      - layout: left
+        title: BSc in Informatics and Telecomunications(GPA: 8.5/10 - with Honors)
+        caption: Sept 2014 - Sept 2019
+        sub_title: National and Kapodistrian University of Athens
+        #  quote: >
+        #    Main Interests: Management & Entrepreneurship
+        description: | # this will include new lines to allow paragraphs
+          Main Interests: Web Development & Computer Security.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests and hobbies are:
+      - Playing Basketball in a local league in Athens 
+      - Going to the Theater
+      - Also enjoy playing board games with friends
 
 # Footer
 footer_show_references: true
