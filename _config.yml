@@ -15,9 +15,9 @@ darkmode: false
 
 # Additional icon links
 additional_links:
-- title: linkedin
+- title: Linkedin link
   icon: fab fa-linkedin
-  url: https://www.itsgoingto.be
+  url: https://www.linkedin.com/in/marinos-agapiou-4a32b714a/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
