@@ -34,9 +34,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Marinos and I'm a Full Stack Software Engineer with a passion for developing scalable SPA as well as microservice software solutions.
   Passionate about developing clean modular code and excited to be part of a strong development team. I excel in the dynamic realm of software, adept at swiftly adapting and constantly seeking opportunities to learn from my peers, while also sharing my knowledge with others. Fluent in Greek and English, and have a basic understanding of German
-  I am mostly skilled in&#58; <mark>Java Spring Boot</mark> and <mark>Angular</mark>
-  My entire skillset includes&#58; Java, JPA, Spring Boot, Maven, NPM, Nodejs, Angular, HTML, CSS, TailwindCSS, Bootstrap, OWASP,
-PostgreSQL, MongoDB, Docker, Microservices, Jenkins CI/CD, Postman, Git, Github, Gitlab & Azure
+  I am mostly skilled in&#58; <mark>Java Spring Boot</mark> and <mark>Angular</mark>.
+  My entire skillset includes&#58; Java, JPA, Spring Boot, Maven, NPM, Nodejs, Angular, HTML, CSS, TailwindCSS, Bootstrap, OWASP, PostgreSQL, MongoDB, Docker, Microservices, Jenkins CI/CD, Postman, Git, Github, Gitlab & Azure.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
